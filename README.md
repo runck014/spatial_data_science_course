@@ -19,6 +19,7 @@ cubes, TINs, terrain, and networks
 
 - [2022 Syllabus](https://docs.google.com/document/d/1imnVS4QfQwgs8pTZEKjKABCTn8jYp0Yq/edit?usp=sharing&ouid=117926763410213500553&rtpof=true&sd=true)
 - [How People Learn](https://docs.google.com/presentation/d/1b6uqHuiguISJPoROvoqOs9dAFAWZYbvMM5lTeO9655o/edit#slide=id.gaf8ebdd7e6_0_76)
+- [Lab Report Template](https://docs.google.com/document/d/1gOGBtTe3dQzrXCEMl644QIVdJgMp8ahN/edit)
 
 
 #### Weekly Activities
