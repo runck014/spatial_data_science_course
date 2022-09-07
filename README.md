@@ -23,6 +23,7 @@ cubes, TINs, terrain, and networks
 
 #### Weekly Activities
 - [Sign up Weekly Student Note Taker](https://docs.google.com/spreadsheets/d/1gZBnFBbjkb3ryIFFotg0zilk9sXMZDIjLa--vnBuaUA/edit#gid=2014120666)
+- [Example of Notes](https://docs.google.com/document/d/1OpdmrQNGFvg8OnD--i64asvWsNqwl6XiDkn72cUgIlM/edit)
 - [Sign up for Inspiration Presentation](https://docs.google.com/spreadsheets/d/1UBUII60QZ9UxZowIRpkKireNtQYl2NHcw70HT7dND6A/edit#gid=750114212)
 - [Example Inspiration Presentation](https://docs.google.com/presentation/d/1AmKitoWbCqK3ZeWPFVe1dm0KkKqUaknvkp1MQErbM9g/edit#slide=id.p)
 
