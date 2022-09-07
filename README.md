@@ -32,6 +32,6 @@ cubes, TINs, terrain, and networks
 
 
 
-## Week 1
+# Week 1
 - [Introduction and Overview](https://docs.google.com/presentation/d/1Ih2Zsf4nfYDunFsd07ffMhLvQ0tVVs7t/edit#slide=id.p1)
 - [Lab 0](https://docs.google.com/document/d/1Iz9zoDyZu6bNrij5YiwXLlFaJvFuWhzR/edit#heading=h.gjdgxs)
