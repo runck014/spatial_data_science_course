@@ -34,7 +34,18 @@ cubes, TINs, terrain, and networks
 
 
 
-# Week 1
-- [Slides: Introduction and Overview](https://docs.google.com/presentation/d/1Ih2Zsf4nfYDunFsd07ffMhLvQ0tVVs7t/edit#slide=id.p1)
+## Week 1
+- Slides: [Introduction and Overview](https://docs.google.com/presentation/d/1Ih2Zsf4nfYDunFsd07ffMhLvQ0tVVs7t/edit#slide=id.p1)
 - [Lab 0](https://docs.google.com/document/d/1Iz9zoDyZu6bNrij5YiwXLlFaJvFuWhzR/edit#heading=h.gjdgxs)
 - [Lab 0 ESRI Learning Plan](https://www.esri.com/training/my-learning-plans/)
+
+
+# Foundations
+## Week 2
+- Slides: [Representation, Abstractions, and Interfaces](https://docs.google.com/presentation/d/1GiCiLoNf9TsXgQA7K69pPdMkA_OTEUEy/edit?usp=sharing&ouid=117926763410213500553&rtpof=true&sd=true)
+- Continue working on Lab 0, Prospectus, and Inspiration Presentations
+- Optional Reading:
+
+> Models capture phenomena—of the world or of the imagination—in such a way that a general-purpose computer can emulate, simulate, or create the phenomena. But the models are usually not obvious. The real world is complex and nonlinear, there’s too much detail to deal with, and relationships among the details are often hidden. Computer scientists deal with this problem by careful, deliberate creation of abstractions that express the models. These abstractions are represented symbolically, in notations appropriate to the phenomena. The design of languages for these models and for analyzing, processing, and executing them is a core activity of computer science.
+
+From [National Research Council (2004). 4 Abstraction, Representation, and Notation. in Computer Science: Reflections on the Field, Reflections from the Field. Washington, DC: The National Academies Press. doi: 10.17226/11106.](https://nap.nationalacademies.org/read/11106/chapter/6)
