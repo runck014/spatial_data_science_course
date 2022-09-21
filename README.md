@@ -39,8 +39,8 @@ cubes, TINs, terrain, and networks
 - [Lab 0 ESRI Learning Plan](https://www.esri.com/training/my-learning-plans/)
 
 
-
-# Week 2: Foundations
+# --- Foundations ---
+# Week 2
 - Slides: [Representation, Abstractions, and Interfaces](https://docs.google.com/presentation/d/1GiCiLoNf9TsXgQA7K69pPdMkA_OTEUEy/edit?usp=sharing&ouid=117926763410213500553&rtpof=true&sd=true)
 - Continue working on Lab 0, Prospectus, and Inspiration Presentations
 
@@ -66,7 +66,7 @@ From [National Research Council (2004). 4 Abstraction, Representation, and Notat
 Abstract from [Couclelis, H. (1992). People manipulate objects (but cultivate fields): Beyond the raster-vector debate in GIS. In: Frank, A.U., Campari, I., Formentini, U. (eds) Theories and Methods of Spatio-Temporal Reasoning in Geographic Space. Lecture Notes in Computer Science, vol 639. Springer, Berlin, Heidelberg. https://doi.org/10.1007/3-540-55966-3_3](http://www.dpi.inpe.br/gilberto/references/couclelis_1992_objects_fields.pdf)
 
 
-# Week 3: Foundations
+# Week 3
 - Slides: [Data Pipelining, Interoperability, and Wrangling](https://docs.google.com/presentation/d/1H3wKZnttw1WZXGM_PXnwKRwHGBnRn6A-/edit#slide=id.p1)
 - [Lab 1](https://docs.google.com/document/d/1hREy9BSfYNHWedRdvJpk8U8ZD3zGs8cqlgOKioYMsZM/edit?usp=sharing)
 
