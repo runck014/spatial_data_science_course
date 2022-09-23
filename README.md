@@ -71,14 +71,18 @@ Abstract from [Couclelis, H. (1992). People manipulate objects (but cultivate fi
 - [Lab 1](https://docs.google.com/document/d/1hREy9BSfYNHWedRdvJpk8U8ZD3zGs8cqlgOKioYMsZM/edit?usp=sharing)
 
 ### Optional Reading:
+
+#### Learn about how ArcPy's geometry classes relate to one another
 > Geometry objects define a spatial location and an associated geometric shape. In many geoprocessing workflows, you may need to run a specific operation using coordinate and geometry information but don't...
 
 From [ArcPy Classes: Geometry](https://pro.arcgis.com/en/pro-app/2.8/arcpy/classes/geometry.htm)
 
+#### Get deeper in the role that commandline tools can play in your spatial data science workflows
 > Today, data scientists can choose from an overwhelming collection of exciting technologies and programming languages. Python, R, Julia, and Apache Spark are but a few examples. You may already have experience in one or more of these. If so, then why should you still care about the command line for doing data science? What does the command line have to offer that these other technologies and programming languages do not?
 
 From [Data Science at the Command Line](https://datascienceatthecommandline.com/2e/chapter-1-introduction.html)
 
+#### Pipelining often involves building data-intensive software systems. Learn more from this book
 > [W]e need to build applications that are reliable, scalable and maintainable in the long run. We need to understand the range of available tools and their trade-offs. For that, we have to dig deeper than buzzwords.
 
 From [Designing Data-Intensive Applications](https://dataintensive.net/)
