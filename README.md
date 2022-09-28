@@ -33,6 +33,7 @@ cubes, TINs, terrain, and networks
 - [Final Project Sign up](https://docs.google.com/spreadsheets/d/1InjQSVN8neXKewZ0TawpBBjvzDhrMeOr/edit#gid=1892231489)
 
 
+# --- Introduction ---
 # Week 1
 - Slides: [Introduction and Overview](https://docs.google.com/presentation/d/1Ih2Zsf4nfYDunFsd07ffMhLvQ0tVVs7t/edit#slide=id.p1)
 - [Lab 0](https://docs.google.com/document/d/1Iz9zoDyZu6bNrij5YiwXLlFaJvFuWhzR/edit#heading=h.gjdgxs)
