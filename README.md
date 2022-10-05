@@ -109,4 +109,6 @@ From [Wang, R. Y., & Strong, D. M. (1996). Beyond accuracy: What data quality me
 From [Sturtevant, C., DeRego, E., Metzger, S., Ayres, E., Allen, D., Burlingame, T., ... & SanClements, M. (2022). A process approach to quality management doubles NEON sensor data quality. Methods in Ecology and Evolution, 13(9), 1849-1865.](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13943)
 
 # Week 5
-- Quiz. See canvas. 
+- Quiz. See canvas.
+- [Lab 2](https://docs.google.com/file/d/1HqW_6GluS0Y2s7KIE-ehvBiiB8W8iQCj/edit?usp=docslist_api&filetype=msword)
+
