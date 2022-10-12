@@ -112,3 +112,6 @@ From [Sturtevant, C., DeRego, E., Metzger, S., Ayres, E., Allen, D., Burlingame,
 - Quiz. See canvas.
 - [Lab 2](https://docs.google.com/file/d/1HqW_6GluS0Y2s7KIE-ehvBiiB8W8iQCj/edit?usp=docslist_api&filetype=msword)
 
+# Week 6
+- [Slides](https://docs.google.com/presentation/d/1J9bPSbyoucbMCtLtm4rocwOWP1DhGliI/edit#slide=id.p3)
+- Continue with Lab 2
