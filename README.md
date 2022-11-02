@@ -136,3 +136,6 @@ From [Malczewski J., Rinner C. (2015) Introduction to GIS-MCDA. In: Multicriteri
 > Modeling, like computing and statistics, should produce insights, not merely numbers... When we consider model validation, we are interested in the quality of the model. This is a more difficult problem than one might suppose.
 
 From Haefner, J. W. (2005). Modeling biological systems. Springer.
+
+# Week 9
+- Quiz. See Canvas.
