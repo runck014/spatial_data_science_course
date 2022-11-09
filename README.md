@@ -140,6 +140,9 @@ From Haefner, J. W. (2005). Modeling biological systems. Springer.
 # Week 9
 - Quiz. See Canvas.
 
+
+# -- Deterministic Interpolation and Optimization
+
 # Week 10
 - [Slides](https://docs.google.com/presentation/d/1PrXjw7pOE1jqYmv-lXur7kJ0EOjEf0R8/edit#slide=id.p3)
 - [Lab 3](https://docs.google.com/document/d/1Pt163DzQbImnV4e6nBMm2UKs17s1BGFC/edit)
