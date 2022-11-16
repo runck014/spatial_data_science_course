@@ -148,4 +148,4 @@ From Haefner, J. W. (2005). Modeling biological systems. Springer.
 - [Lab 3](https://docs.google.com/document/d/1Pt163DzQbImnV4e6nBMm2UKs17s1BGFC/edit)
 
 # Week 11
-- [Slides](https://docs.google.com/presentation/d/1JQMESK_ZC59zwSsFNnpFQK3GZFT_7lKt/edit#slide=id.p38)
+- [Slides](https://docs.google.com/presentation/d/1JQMESK_ZC59zwSsFNnpFQK3GZFT_7lKt/edit#slide=id.p4)
