@@ -149,3 +149,4 @@ From Haefner, J. W. (2005). Modeling biological systems. Springer.
 
 # Week 11
 - [Slides](https://docs.google.com/presentation/d/1JQMESK_ZC59zwSsFNnpFQK3GZFT_7lKt/edit#slide=id.p4)
+- Quiz. See Canvas.
