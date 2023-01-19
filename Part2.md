@@ -28,3 +28,4 @@ By the end of this course, students will be able to:
 
 # --- Introduction ---
 # Week 1
+- [Slides](https://docs.google.com/presentation/d/1vy4IBuZvD1iBDk-JPC6kffzGdN0VOrR3/edit#slide=id.p1)
