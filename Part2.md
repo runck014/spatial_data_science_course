@@ -22,6 +22,7 @@ By the end of this course, students will be able to:
 
 
 ## Final Project
+- [Final Project Description](https://docs.google.com/document/d/19nyQFAM4otrRos9R4SJYMBBX0Ez5Co7X/edit)
 - [Final Project Form](https://docs.google.com/document/d/1T-1qpwnOxuSPUI4Y4V13SLI2PUalJjpi/edit)
 
 
