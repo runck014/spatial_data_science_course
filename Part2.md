@@ -14,7 +14,7 @@ By the end of this course, students will be able to:
 - [S2023 Syllabus](https://docs.google.com/document/d/1H_qq3OpqvtBSQ9dmrmGfB_zVkHMabqdv/edit#)
 - [How People Learn](https://docs.google.com/presentation/d/1b6uqHuiguISJPoROvoqOs9dAFAWZYbvMM5lTeO9655o/edit#slide=id.gaf8ebdd7e6_0_76)
 - [Lab Report Template](https://docs.google.com/document/d/1gOGBtTe3dQzrXCEMl644QIVdJgMp8ahN/edit)
-
+- [Runck Office Hours Signup](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUY3YV96eFB1SHVGfGRlZmF1bHR8NTRkMDEwZmVlZWQ2ZWRiZjlmNDI1MzcxZmQ0YjUzYmU)
 
 ## Weekly Routines
 - [GIS Inspiration Presentation Sign Up](https://docs.google.com/spreadsheets/d/1-qNscFwME5a4F3UahH57AqnQXBVBpSNn/edit#gid=974884723)
@@ -29,3 +29,9 @@ By the end of this course, students will be able to:
 # --- Introduction ---
 # Week 1
 - [Slides](https://docs.google.com/presentation/d/1vy4IBuZvD1iBDk-JPC6kffzGdN0VOrR3/edit#slide=id.p1)
+
+### Homework
+- Review the [S2023 Syllabus](https://docs.google.com/document/d/1H_qq3OpqvtBSQ9dmrmGfB_zVkHMabqdv/edit#)
+- Sign up for [GIS Inspiration Presentation Sign Up](https://docs.google.com/spreadsheets/d/1-qNscFwME5a4F3UahH57AqnQXBVBpSNn/edit#gid=974884723)
+- Sign up for [Sign up Weekly Student Note Taker](https://docs.google.com/spreadsheets/d/1-lpc5G-al51HqLPaMiga18029kmDLX9j/edit#gid=1118055696)
+- Review the [Final Project Description](https://docs.google.com/document/d/19nyQFAM4otrRos9R4SJYMBBX0Ez5Co7X/edit) and [Final Project Form](https://docs.google.com/document/d/1T-1qpwnOxuSPUI4Y4V13SLI2PUalJjpi/edit)
