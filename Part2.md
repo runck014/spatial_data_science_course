@@ -35,3 +35,4 @@ By the end of this course, students will be able to:
 - Sign up for [GIS Inspiration Presentation Sign Up](https://docs.google.com/spreadsheets/d/1-qNscFwME5a4F3UahH57AqnQXBVBpSNn/edit#gid=974884723)
 - Sign up for [Sign up Weekly Student Note Taker](https://docs.google.com/spreadsheets/d/1-lpc5G-al51HqLPaMiga18029kmDLX9j/edit#gid=1118055696)
 - Review the [Final Project Description](https://docs.google.com/document/d/19nyQFAM4otrRos9R4SJYMBBX0Ez5Co7X/edit) and [Final Project Form](https://docs.google.com/document/d/1T-1qpwnOxuSPUI4Y4V13SLI2PUalJjpi/edit)
+- Check out the [office hours sign up page](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUY3YV96eFB1SHVGfGRlZmF1bHR8NTRkMDEwZmVlZWQ2ZWRiZjlmNDI1MzcxZmQ0YjUzYmU)
