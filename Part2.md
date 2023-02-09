@@ -53,5 +53,6 @@ By the end of this course, students will be able to:
 - [Example Functional Spec + Time Esimates Table](https://docs.google.com/spreadsheets/d/1Ez4l-aMmy-DKfAvqZNEyxhuWHIomV_ay/edit?usp=share_link&ouid=117926763410213500553&rtpof=true&sd=true)
 
 # Week 4
+- [Slides](https://docs.google.com/presentation/d/1PtEjEmv2jxUlbnp3WzOz9JDzJRNMGZQQ/edit#slide=id.p2)
 - [API Tutorial and Starter Code](https://github.com/runck014/iot_bootcamp/tree/master/web_server)
 
