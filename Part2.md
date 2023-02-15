@@ -56,3 +56,5 @@ By the end of this course, students will be able to:
 - [Slides](https://docs.google.com/presentation/d/1PtEjEmv2jxUlbnp3WzOz9JDzJRNMGZQQ/edit#slide=id.p2)
 - [API Tutorial and Starter Code](https://github.com/runck014/iot_bootcamp/tree/master/web_server)
 
+# Week 5
+- [Quiz to Be Released Start of Class](https://umn.instructure.com/courses/351484/assignments/3062008)
