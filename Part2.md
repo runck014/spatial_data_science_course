@@ -58,3 +58,5 @@ By the end of this course, students will be able to:
 
 # Week 5
 - [Quiz to Be Released Start of Class](https://umn.instructure.com/courses/351484/assignments/3062008)
+- [Lab 2](https://docs.google.com/document/d/1Q_FzJeKMX4GjT7smR_fUTkYZepDU1DKk/edit)
+- [Evaluation Metrics Sheet](https://docs.google.com/spreadsheets/d/1LhrSohjEYaZf-AFdsj6tKwQWklfePZBD/edit?usp=drive_web&ouid=117926763410213500553&rtpof=true)
