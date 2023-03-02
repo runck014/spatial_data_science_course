@@ -61,7 +61,11 @@ By the end of this course, students will be able to:
 - [Lab 2](https://docs.google.com/document/d/1Q_FzJeKMX4GjT7smR_fUTkYZepDU1DKk/edit)
 - [Evaluation Metrics Sheet](https://docs.google.com/spreadsheets/d/1LhrSohjEYaZf-AFdsj6tKwQWklfePZBD/edit?usp=drive_web&ouid=117926763410213500553&rtpof=true)
 - [Demo Repo for Cloud Run](https://github.com/runck014/cloud_run_demo)
+- [ArcGIS Online GeoJSON Requirements](https://doc.arcgis.com/en/arcgis-online/reference/geojson.htm)
 
 # Week 6
 - [Slides](https://docs.google.com/presentation/d/1An_OXdvJKLvteWPCvu10Onj1aVpj9Pv4/edit#slide=id.g21104db07a8_0_0)
 - [Real-time QAQC Activity Repo](https://github.com/runck014/realtime_qaqc_activity)
+
+# Week 7
+- [Slides](https://docs.google.com/presentation/d/1ouDVi0GIw1QBsy2B2_UBw0sPs1vqZ8cV/edit#slide=id.p1)
