@@ -76,3 +76,6 @@ By the end of this course, students will be able to:
 # Week 9
 - [Quiz to Be Released Start of Class](https://canvas.umn.edu/courses/351484/assignments/3062009)
 - [Lab 3](https://docs.google.com/document/d/18J3FjDG5t271RzjFvPzxuNVa5jhFaYcz/edit)
+
+# Week 10
+- [Slides](https://docs.google.com/presentation/d/1Cky5zg4ehHMLtPx_MKI5qzlXrWJ_GxCp/edit#slide=id.p1)
