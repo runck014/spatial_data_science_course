@@ -90,4 +90,4 @@ By the end of this course, students will be able to:
 
 # Week 13
 - [Quiz to Be Released Start of Class](https://canvas.umn.edu/courses/351484/assignments/3062010)
-
+- [Lab 4](https://docs.google.com/document/d/1ZjCNpTTdiYbdXcFxeIYJYQATCOZRATKf/edit)
