@@ -1,4 +1,4 @@
-# Spatial Data Science - Part 1
+# Applied Spatial Data Science - Part 1
 
 ## Course Description
 This is the first of a two-course series focused on teaching intermediate skills in spatial data science with emphasis on the Esri ecosystem of geospatial technologies. Students will gain the baseline skills required to build end-to-end data integration pipelines and perform reproducible deterministic spatial analyses. By the end of the course, students will be able to build geospatial workflows and data systems that can address intermediate-level spatial analysis problems.
