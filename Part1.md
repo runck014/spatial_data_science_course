@@ -61,7 +61,7 @@ From [An Overview of ArcPy Classes](https://pro.arcgis.com/en/pro-app/latest/arc
 From [National Research Council (2004). 4 Abstraction, Representation, and Notation. in Computer Science: Reflections on the Field, Reflections from the Field. Washington, DC: The National Academies Press. doi: 10.17226/11106.](https://nap.nationalacademies.org/read/11106/chapter/6)
 
 
-#### Get deeper into how these questions of abstraction and representation are tied to philosophical underpinnings in geography and spatial science:
+#### Get deeper into how these questions of abstraction and representation are tied to philosophical underpinnings of geography and spatial science:
 
 > The ongoing debate in GIS regarding the relative merits of vector versus raster representations of spatial information is usually couched in technical terms. Yet the technical question of the most appropriate data structure begs the philosophical question of the most appropriate conceptualization of geographic space. The paper confronts this latter question in the context of the opposition between the "object" and "field" views of space. I suggest that GIS can turn a rather dry debate into a source of insights regarding the nature of its subject matter by learning from how people actually experience and deal with the geographic world. Human cognition indeed appears to make use of both the object and field views, but at different geographic scales, and for different purposes. These observations suggest a list of desiderata for the next round of thinking about spatial representation in GIS.
 
