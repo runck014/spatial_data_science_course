@@ -40,3 +40,29 @@ cubes, TINs, terrain, and networks
 - [Lab 0 ESRI Learning Plan](https://www.esri.com/training/my-dashboard/)
 
 
+
+# --- Foundations ---
+# Week 2
+- Slides: [Representation, Abstractions, and Interfaces](https://docs.google.com/presentation/d/1GiCiLoNf9TsXgQA7K69pPdMkA_OTEUEy/edit?usp=sharing&ouid=117926763410213500553&rtpof=true&sd=true)
+- Continue working on Lab 0, Prospectus, and Inspiration Presentations
+
+### Optional Reading:
+
+#### Strongly recommend reviewing ESRI's overview of ArcPy classes (e.g. abstractions and interfaces)
+> ArcPy provides a number of classes to better support workflows using Python. In addition to the classes listed in this topic, additional classes can be found in other ArcPy modules, including ...
+
+From [An Overview of ArcPy Classes](https://pro.arcgis.com/en/pro-app/latest/arcpy/classes/alphabetical-list-of-arcpy-classes.htm)
+
+
+#### Get deeper into the computer science view of abstractions and representation:
+
+> Models capture phenomena—of the world or of the imagination—in such a way that a general-purpose computer can emulate, simulate, or create the phenomena. But the models are usually not obvious. The real world is complex and nonlinear, there’s too much detail to deal with, and relationships among the details are often hidden. Computer scientists deal with this problem by careful, deliberate creation of abstractions that express the models. These abstractions are represented symbolically, in notations appropriate to the phenomena. The design of languages for these models and for analyzing, processing, and executing them is a core activity of computer science.
+
+From [National Research Council (2004). 4 Abstraction, Representation, and Notation. in Computer Science: Reflections on the Field, Reflections from the Field. Washington, DC: The National Academies Press. doi: 10.17226/11106.](https://nap.nationalacademies.org/read/11106/chapter/6)
+
+
+#### Get deeper into how these questions of abstraction and representation are tied to philosophical underpinnings in geography and spatial science:
+
+> The ongoing debate in GIS regarding the relative merits of vector versus raster representations of spatial information is usually couched in technical terms. Yet the technical question of the most appropriate data structure begs the philosophical question of the most appropriate conceptualization of geographic space. The paper confronts this latter question in the context of the opposition between the "object" and "field" views of space. I suggest that GIS can turn a rather dry debate into a source of insights regarding the nature of its subject matter by learning from how people actually experience and deal with the geographic world. Human cognition indeed appears to make use of both the object and field views, but at different geographic scales, and for different purposes. These observations suggest a list of desiderata for the next round of thinking about spatial representation in GIS.
+
+Abstract from [Couclelis, H. (1992). People manipulate objects (but cultivate fields): Beyond the raster-vector debate in GIS. In: Frank, A.U., Campari, I., Formentini, U. (eds) Theories and Methods of Spatio-Temporal Reasoning in Geographic Space. Lecture Notes in Computer Science, vol 639. Springer, Berlin, Heidelberg. https://doi.org/10.1007/3-540-55966-3_3](http://www.dpi.inpe.br/gilberto/references/couclelis_1992_objects_fields.pdf)
