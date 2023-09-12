@@ -41,7 +41,7 @@ cubes, TINs, terrain, and networks
 
 
 
-# --- Foundations ---
+# --- Foundations: Modeling Space and Place ---
 # Week 2
 - Slides: [Representation, Abstractions, and Interfaces](https://docs.google.com/presentation/d/1GiCiLoNf9TsXgQA7K69pPdMkA_OTEUEy/edit?usp=sharing&ouid=117926763410213500553&rtpof=true&sd=true)
 - Continue working on Lab 0, Prospectus, and Inspiration Presentations
