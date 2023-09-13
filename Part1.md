@@ -44,7 +44,7 @@ cubes, TINs, terrain, and networks
 # --- Foundations: Modeling Space and Place ---
 # Week 2
 - Slides: [Representation, Abstractions, and Interfaces](https://docs.google.com/presentation/d/1GiCiLoNf9TsXgQA7K69pPdMkA_OTEUEy/edit?usp=sharing&ouid=117926763410213500553&rtpof=true&sd=true)
-- Continue working on Lab 0, Prospectus, and Inspiration Presentations
+- [Lab 1](https://docs.google.com/document/d/1hREy9BSfYNHWedRdvJpk8U8ZD3zGs8cqlgOKioYMsZM/edit#heading=h.haql5ac3lg7k)
 - Esri Data Types Shared [Sheet](https://docs.google.com/spreadsheets/d/1AYm7LLa80W_o0oOe7K1MvqhXcI5BeYo_a36TvkCwZkY/edit#gid=0)
 
 ### Optional Reading:
