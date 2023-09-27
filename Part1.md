@@ -92,6 +92,7 @@ From [Designing Data-Intensive Applications](https://dataintensive.net/)
 # Week 4
 - Slides: [Data Capture, Storage, Quality Assurance and Control](https://docs.google.com/presentation/d/1nwUkBhRsvEkGVFkaU9e6DdUiAe1CAcD2/edit#slide=id.gf4c686e7e1_0_90)
 - Continue with Lab 1; quiz next week
+- [Folder for QAQC Matrices and Diagrams Activity](https://drive.google.com/drive/folders/1WuKEQ50OpBrLnrIEhjUnWVb4ViQz28I1)
 
 ### Optional Reading
 #### Continuous streams of data present unique challenges for spatial and temporal quality assurance and control checks. The instrumentation community has substantial experience in managing such data and illustrates the socio-technical nature of QAQC programs. Learn more from this paper...
