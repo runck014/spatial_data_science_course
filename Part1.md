@@ -113,3 +113,8 @@ From [Sturtevant, C., DeRego, E., Metzger, S., Ayres, E., Allen, D., Burlingame,
 # Week 5
 - [Quiz](https://canvas.umn.edu/courses/387311/assignments/3446270)
 - [Lab 2](https://docs.google.com/document/d/1HqW_6GluS0Y2s7KIE-ehvBiiB8W8iQCj/edit?usp=sharing&ouid=117926763410213500553&rtpof=true&sd=true)
+
+# Week 6
+- [Slides](https://docs.google.com/presentation/d/1J9bPSbyoucbMCtLtm4rocwOWP1DhGliI/edit#slide=id.p3)
+- Continue with Lab 2
+
