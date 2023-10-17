@@ -118,3 +118,15 @@ From [Sturtevant, C., DeRego, E., Metzger, S., Ayres, E., Allen, D., Burlingame,
 # Week 6
 - [Slides](https://docs.google.com/presentation/d/1J9bPSbyoucbMCtLtm4rocwOWP1DhGliI/edit#slide=id.p3)
 - Continue with Lab 2
+
+
+# Week 7
+- [Slides](https://docs.google.com/presentation/d/1I8pVck9UQC66UQCKP12Cxr2cj7W61SWB/edit#slide=id.p8)
+- Continue with Lab 2
+- Sign up for [peer reviews](https://docs.google.com/spreadsheets/d/1EtpaXWx4cc9lzecs0SdcBKrmeCi3Qas0yZrrOhFM2ys/edit#gid=0)
+
+### Optional Reading
+#### In spatial data science and geographic information science, we most often do analyses to support an applied spatial decision.
+> At the most rudimentary level, a multi-criteria decision problem involves a set of alternatives that are evaluated on the basis of conflicting and incommensurate criteria according to the decision maker’s preferences. The main elements of any multicriteria decision problem includes: decision maker(s), alternatives, and criteria. The procedures for tackling multicriteria decision problems involve three main concepts: value scaling (or standardization), criterion weighting, and combination (decision) rule. These are fundamental concepts for MCDA in general and GIS-MCDA in particular. They can be considered as the building blocks of spatial decision support procedures.
+
+From [Malczewski J., Rinner C. (2015) Introduction to GIS-MCDA. In: Multicriteria Decision Analysis in Geographic Information Science. Advances in Geographic Information Science. Springer, Berlin, Heidelberg.](https://doi.org/10.1007/978-3-540-74757-4_2)
