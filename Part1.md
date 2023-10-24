@@ -130,3 +130,14 @@ From [Sturtevant, C., DeRego, E., Metzger, S., Ayres, E., Allen, D., Burlingame,
 > At the most rudimentary level, a multi-criteria decision problem involves a set of alternatives that are evaluated on the basis of conflicting and incommensurate criteria according to the decision maker’s preferences. The main elements of any multicriteria decision problem includes: decision maker(s), alternatives, and criteria. The procedures for tackling multicriteria decision problems involve three main concepts: value scaling (or standardization), criterion weighting, and combination (decision) rule. These are fundamental concepts for MCDA in general and GIS-MCDA in particular. They can be considered as the building blocks of spatial decision support procedures.
 
 From [Malczewski J., Rinner C. (2015) Introduction to GIS-MCDA. In: Multicriteria Decision Analysis in Geographic Information Science. Advances in Geographic Information Science. Springer, Berlin, Heidelberg.](https://doi.org/10.1007/978-3-540-74757-4_2)
+
+
+# Week 8
+- [Slides](https://docs.google.com/presentation/d/1W6m_ssvQ652KEZUAhdC7v21GEtwo85aj/edit?usp=drive_web&ouid=117926763410213500553&rtpof=true)
+- [Toy Model](https://docs.google.com/spreadsheets/d/1yqlhxlGmtuCTMAmne0jzacP6IH3I92GB/edit?usp=sharing&ouid=117926763410213500553&rtpof=true&sd=true) to download and use in excel
+
+### Optional Reading
+#### Model Analysis is an important part of characterizing what your model can and cannot do well. Learn more...
+> Modeling, like computing and statistics, should produce insights, not merely numbers... When we consider model validation, we are interested in the quality of the model. This is a more difficult problem than one might suppose.
+
+From Haefner, J. W. (2005). Modeling biological systems. Springer.
