@@ -65,3 +65,8 @@ By the end of this course, students will be able to:
 - [Slides](https://docs.google.com/presentation/d/1An_OXdvJKLvteWPCvu10Onj1aVpj9Pv4/edit#slide=id.g21104db07a8_0_0)
 - [Real-time QAQC Activity Repo](https://github.com/runck014/realtime_qaqc_activity)
 
+# Week 7
+- [Slides](https://docs.google.com/presentation/d/1ouDVi0GIw1QBsy2B2_UBw0sPs1vqZ8cV/edit#slide=id.p1)
+
+# Week 8
+- Spring Break
