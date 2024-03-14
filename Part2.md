@@ -70,3 +70,7 @@ By the end of this course, students will be able to:
 
 # Week 8
 - Spring Break
+
+# Week 9
+- [Quiz](https://canvas.umn.edu/courses/409654/assignments/3755553)
+- [Lab 3](https://docs.google.com/document/d/18J3FjDG5t271RzjFvPzxuNVa5jhFaYcz/edit)
