@@ -77,3 +77,8 @@ By the end of this course, students will be able to:
 
 # Week 10
 - [Slides](https://docs.google.com/presentation/d/1Cky5zg4ehHMLtPx_MKI5qzlXrWJ_GxCp/edit#slide=id.p1)
+
+# Week 11
+- [Slides](https://docs.google.com/presentation/d/1c77QwavcNMkBQ1n1HS3OpSeqpw9czuIR/edit#slide=id.p1)
+
+
