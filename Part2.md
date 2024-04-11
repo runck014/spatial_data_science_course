@@ -83,3 +83,7 @@ By the end of this course, students will be able to:
 
 # Week 12
 - [Slides](https://docs.google.com/presentation/d/1ofm0bIOG0_JpDHAC5paOT1xN3YE9lqrO/edit#slide=id.p1)
+
+# Week 13
+- [Quiz 3](https://canvas.umn.edu/courses/409654/assignments/3817448)
+- [Lab 4](https://docs.google.com/document/d/1ZjCNpTTdiYbdXcFxeIYJYQATCOZRATKf/edit)
