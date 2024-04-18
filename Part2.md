@@ -94,4 +94,4 @@ By the end of this course, students will be able to:
 # Week 15
 - [Semester Review Quiz](https://canvas.umn.edu/courses/409654/assignments/3820630)
 - [Final Project Form](https://docs.google.com/document/d/1T-1qpwnOxuSPUI4Y4V13SLI2PUalJjpi/edit)
-- Submit your final project to Canvas [2023 link](https://canvas.umn.edu/courses/351484/assignments/3062012) by May 10 (I have to submit grades by the 15th, so please help me out here)
+- Submit your final project to Canvas [2023 link](https://canvas.umn.edu/courses/351484/assignments/3062012)
