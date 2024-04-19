@@ -6,6 +6,8 @@ This repo holds a two course sequence for spatial data science.
 
 - **Part 2** focuses on deterministic and stochastic spatial analysis and simulation with an emphasis on architecting distributed geospatial systems.
 
+## Notes on the Updated Version
+Over the past four years, I've had the pleasure of hiring and employing many of the students who have taken this course sequence. I have hired my past students always in the context of applied R&D in spatial data science. This means that I've been on all sides of the education process - from first introduction to learning and then on the backend in skill use. This process has shown me repeatedly areas where I have not done the job I need to as an instructor to develop students who are capable of executing complex spatial data science projects in the wild. My goal with this refactor is to address my prior curriculum's shortcomings. Some changes will unfortunatley make the curriculum worse, but I hope, on net, the changes result in even better trained spatial data scientists.
 
 
 ## Theoretical Components of Spatial Data Science
