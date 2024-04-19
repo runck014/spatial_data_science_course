@@ -7,6 +7,7 @@ This repo holds a two course sequence for spatial data science.
 - **Part 2** focuses on deterministic and stochastic spatial analysis and simulation with an emphasis on architecting distributed geospatial systems.
 
 
+
 ## Theoretical Components of Spatial Data Science
 
 | Major Concept | Description |
