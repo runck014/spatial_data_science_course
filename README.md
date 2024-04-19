@@ -21,7 +21,9 @@ This repo holds a two course sequence for spatial data science.
 
 | Major Concept | Description|
 |---------------|-------------|
-| Spatial data system flow mapping | Data flow mapping |
+| ASDT Implementation | Different implementation approaches; comparison of implementations of points, lines, polygons, rasters, etc. |
+| Spatial model implementation | Different implementation approaches for optimization, interpolation, and prediction; comparison of models in terms of fit and prediction capability |
+| Spatial data system flow mapping | Data flow mapping; upstream and downstream |
 | Spatial data system architecting | Matching functional and technical specifications; centralized vs distributed, etc. |
 | Spatial data system performance evaluation | Analysis of competing algorthmic systems |
 | Spatial data system network, storage, and computation performance | How do different implementation combinations affect compute/storage performance? |
