@@ -36,6 +36,8 @@ This repo holds a two course sequence for spatial data science.
 | Geographic Information Science | Coordinate reference systems | Datums, projections |
 | Geographic Information Science | Representation | vector, raster |
 | Geographic Information Science | Spatial summarization | Basic spatial thinking and implementation in GIS |
+| Geographic Information Science | GI Systems Use | Exposure to open and closed GIS (ArcGIS, QGIS, python-based and OGC stack, arcpy) |
+| Cartography | Basic Map Design | Map design process; communication model of mapping, etc |
 | Computer Science | Abstraction | Nimble representation of entities and phenomena in objects; object-oriented programming; abstraction of computers |
 | Computer Science | Databases | Data modeling; entity-relationship diagram; spatial indexing; extended 9-intersection model; SQL |
 | Computer Science | Control structures | loops, if-then, etc |
@@ -46,4 +48,9 @@ This repo holds a two course sequence for spatial data science.
 | Discrete Math | Trees | Ch. 11 of Rosen 2011 |
 | Statistics | Discrete probability | Ch 7 of Rosen 2011 plus applied probabilistic programming |
 | Statistics | Descriptive statistics | Commons in first semester statistics course |
-| Statistics | Inferential statistics | distributions, hypothesis testing, linear regression |
+| Statistics | Inferential statistics | distributions, hypothesis testing, linear regression; use of bootstrapping and simulation |
+| Scientific Computing | Environment management | package management (conda), version control, containers |
+| Scientific Computing | System navigation | file system navigation in commandline (bash; zsh) or GUI; ssh; scp |
+| Scientific Computing | Reproducible Code | GitHub and repository structuring; Jupyter notebook; scripting; creating libraries |
+| Information Technology | Cloud Computing | Virtual servers, hosted databases, serverless platforms, continuous integration and deployment (AWS, Google, Azure) |
+| Information Technology | Enterprise system management | Security and access for data; network management; etc |
