@@ -22,6 +22,9 @@ This repo holds a two course sequence for spatial data science.
 | Major Concept | Description|
 |---------------|-------------|
 | Spatial data system flow mapping | Data flow mapping |
-| Spatial data system architecting | Functiona
+| Spatial data system architecting | Matching functional and technical specifications; centralized vs distributed, etc. |
+| Spatial data system performance evaluation | Analysis of competing algorthmic systems |
+| SDS testing and quality assurance | Static and real-time testing and quality assessment |
 | ASDT implementation sensitivity | How do different implementations affect performance? |
 | ASDT storage | How do different representations affect  performance? |
+
