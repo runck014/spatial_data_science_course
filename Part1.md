@@ -23,15 +23,15 @@ cubes, TINs, terrain, and networks
 
 
 #### Weekly Activities
-- [Sign up Weekly Student Note Taker](https://docs.google.com/spreadsheets/d/1gZBnFBbjkb3ryIFFotg0zilk9sXMZDIjLa--vnBuaUA/edit#gid=2014120666)
+- [Sign up Weekly Student Note Taker](https://docs.google.com/spreadsheets/d/1gZBnFBbjkb3ryIFFotg0zilk9sXMZDIjLa--vnBuaUA/edit?usp=sharing)
 - [Example of Notes](https://docs.google.com/document/d/1OpdmrQNGFvg8OnD--i64asvWsNqwl6XiDkn72cUgIlM/edit)
-- [Sign up for Inspiration Presentation](https://docs.google.com/spreadsheets/d/1UBUII60QZ9UxZowIRpkKireNtQYl2NHcw70HT7dND6A/edit#gid=750114212)
+- [Sign up for Inspiration Presentation](https://docs.google.com/spreadsheets/d/1UBUII60QZ9UxZowIRpkKireNtQYl2NHcw70HT7dND6A/edit?usp=sharing)
 - [Example Inspiration Presentation](https://docs.google.com/presentation/d/1AmKitoWbCqK3ZeWPFVe1dm0KkKqUaknvkp1MQErbM9g/edit#slide=id.p)
 
 #### Final Projects
 - [Project Overview](https://docs.google.com/document/d/1Ipqnq78cdC5e94BoTvaD6ZCK6RsoPNbp/edit)
-- [Final Project Sign up](https://docs.google.com/spreadsheets/d/1InjQSVN8neXKewZ0TawpBBjvzDhrMeOr/edit#gid=1892231489)
-- [Peer Review Sign up](https://docs.google.com/spreadsheets/d/1EtpaXWx4cc9lzecs0SdcBKrmeCi3Qas0yZrrOhFM2ys/edit#gid=0)
+- [Final Project Sign up](https://docs.google.com/spreadsheets/d/1InjQSVN8neXKewZ0TawpBBjvzDhrMeOr/edit?usp=sharing&ouid=117926763410213500553&rtpof=true&sd=true)
+- [Peer Review Sign up](https://docs.google.com/spreadsheets/d/1EtpaXWx4cc9lzecs0SdcBKrmeCi3Qas0yZrrOhFM2ys/edit?usp=sharing)
 
 # --- Introduction ---
 # Week 1
