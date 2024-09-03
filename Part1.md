@@ -31,7 +31,7 @@ cubes, TINs, terrain, and networks
 #### Final Projects
 - [Project Overview](https://docs.google.com/document/d/1Ipqnq78cdC5e94BoTvaD6ZCK6RsoPNbp/edit)
 - [Final Project Sign up](https://docs.google.com/spreadsheets/d/1InjQSVN8neXKewZ0TawpBBjvzDhrMeOr/edit?usp=sharing&ouid=117926763410213500553&rtpof=true&sd=true)
-- [Peer Review Sign up](https://docs.google.com/spreadsheets/d/1EtpaXWx4cc9lzecs0SdcBKrmeCi3Qas0yZrrOhFM2ys/edit#gid=0)
+- [Peer Review Sign up](https://docs.google.com/spreadsheets/d/1EtpaXWx4cc9lzecs0SdcBKrmeCi3Qas0yZrrOhFM2ys/edit?usp=sharing)
 
 # --- Introduction ---
 # Week 1
