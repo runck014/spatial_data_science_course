@@ -65,3 +65,25 @@ From [National Research Council (2004). 4 Abstraction, Representation, and Notat
 > The ongoing debate in GIS regarding the relative merits of vector versus raster representations of spatial information is usually couched in technical terms. Yet the technical question of the most appropriate data structure begs the philosophical question of the most appropriate conceptualization of geographic space. The paper confronts this latter question in the context of the opposition between the "object" and "field" views of space. I suggest that GIS can turn a rather dry debate into a source of insights regarding the nature of its subject matter by learning from how people actually experience and deal with the geographic world. Human cognition indeed appears to make use of both the object and field views, but at different geographic scales, and for different purposes. These observations suggest a list of desiderata for the next round of thinking about spatial representation in GIS.
 
 Abstract from [Couclelis, H. (1992). People manipulate objects (but cultivate fields): Beyond the raster-vector debate in GIS. In: Frank, A.U., Campari, I., Formentini, U. (eds) Theories and Methods of Spatio-Temporal Reasoning in Geographic Space. Lecture Notes in Computer Science, vol 639. Springer, Berlin, Heidelberg. https://doi.org/10.1007/3-540-55966-3_3](http://www.dpi.inpe.br/gilberto/references/couclelis_1992_objects_fields.pdf)
+
+# Week 3
+- Slides: [Data Pipelining, Interoperability, and Wrangling](https://docs.google.com/presentation/d/1H3wKZnttw1WZXGM_PXnwKRwHGBnRn6A-/edit#slide=id.p1)
+- Continue Lab 1
+
+### Optional Reading:
+
+#### Learn about how ArcPy's geometry classes relate to one another
+> Geometry objects define a spatial location and an associated geometric shape. In many geoprocessing workflows, you may need to run a specific operation using coordinate and geometry information but don't...
+
+From [ArcPy Classes: Geometry](https://pro.arcgis.com/en/pro-app/2.8/arcpy/classes/geometry.htm)
+
+#### Get deeper in the role that commandline tools can play in your spatial data science workflows
+> Today, data scientists can choose from an overwhelming collection of exciting technologies and programming languages. Python, R, Julia, and Apache Spark are but a few examples. You may already have experience in one or more of these. If so, then why should you still care about the command line for doing data science? What does the command line have to offer that these other technologies and programming languages do not?
+
+From [Data Science at the Command Line](https://datascienceatthecommandline.com/2e/chapter-1-introduction.html)
+
+#### Pipelining often involves building data-intensive software systems. Learn more from this book
+> [W]e need to build applications that are reliable, scalable and maintainable in the long run. We need to understand the range of available tools and their trade-offs. For that, we have to dig deeper than buzzwords.
+
+From [Designing Data-Intensive Applications](https://dataintensive.net/)
+
