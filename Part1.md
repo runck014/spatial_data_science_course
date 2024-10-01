@@ -5,7 +5,7 @@ This is the first of a two-course series focused on teaching intermediate skills
 
 ## Learning Objectives
 By the end of this course, students will be able to:
-1. Work across the Esri ecosystem with ArcPro, Python, Jupyter Notebooks, and
+1. Work across the Esri ecosystem awith ArcPro, Python, Jupyter Notebooks, and
 supporting open source software tools
 2. Create and edit data types including vector, raster, tabular, geojson, spacetime
 cubes, TINs, terrain, and networks
@@ -110,6 +110,6 @@ From [Sturtevant, C., DeRego, E., Metzger, S., Ayres, E., Allen, D., Burlingame,
 
 
 # Week 5
-- [Quiz](https://canvas.umn.edu/courses/387311/assignments/3446270)
+- [Quiz](https://canvas.umn.edu/courses/456385/assignments/4151667)
 - [Lab 2](https://docs.google.com/document/d/1HqW_6GluS0Y2s7KIE-ehvBiiB8W8iQCj/edit?usp=sharing&ouid=117926763410213500553&rtpof=true&sd=true)
 
