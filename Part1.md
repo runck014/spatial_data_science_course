@@ -120,4 +120,5 @@ From [Sturtevant, C., DeRego, E., Metzger, S., Ayres, E., Allen, D., Burlingame,
 ### Optional Reading
 #### Routing and optimal paths are foundational to our field, and they're built on top of cost surfaces. The techniques to arrive at a cost surface are highly similar to those to perform a suitability analysis.
 > Suppose you needed to locate the best route for a proposed highway, or pipeline or electric transmission line. What factors ought to be considered? How would the criteria be evaluated?
+
 From [Beyond Mapping III: Topic 19: Routing and Optimal Paths](http://www.innovativegis.com/basis/MapAnalysis/Topic19/Topic19.pdf)
