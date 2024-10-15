@@ -122,3 +122,8 @@ From [Sturtevant, C., DeRego, E., Metzger, S., Ayres, E., Allen, D., Burlingame,
 > Suppose you needed to locate the best route for a proposed highway, or pipeline or electric transmission line. What factors ought to be considered? How would the criteria be evaluated?
 
 From [Beyond Mapping III: Topic 19: Routing and Optimal Paths](http://www.innovativegis.com/basis/MapAnalysis/Topic19/Topic19.pdf)
+
+# Week 7
+- [Slides](https://docs.google.com/presentation/d/1I8pVck9UQC66UQCKP12Cxr2cj7W61SWB/edit#slide=id.p8)
+- Continue with Lab 2
+- Sign up for [peer reviews](https://docs.google.com/spreadsheets/d/1EtpaXWx4cc9lzecs0SdcBKrmeCi3Qas0yZrrOhFM2ys/edit#gid=0)
