@@ -127,3 +127,13 @@ From [Beyond Mapping III: Topic 19: Routing and Optimal Paths](http://www.innova
 - [Slides](https://docs.google.com/presentation/d/1I8pVck9UQC66UQCKP12Cxr2cj7W61SWB/edit#slide=id.p8)
 - Continue with Lab 2
 - Sign up for [peer reviews](https://docs.google.com/spreadsheets/d/1EtpaXWx4cc9lzecs0SdcBKrmeCi3Qas0yZrrOhFM2ys/edit#gid=0)
+
+# Week 8
+- [Slides](https://docs.google.com/presentation/d/1W6m_ssvQ652KEZUAhdC7v21GEtwo85aj/edit?usp=drive_web&ouid=117926763410213500553&rtpof=true)
+- [Toy Model](https://docs.google.com/spreadsheets/d/1yqlhxlGmtuCTMAmne0jzacP6IH3I92GB/edit?usp=sharing&ouid=117926763410213500553&rtpof=true&sd=true) to download and use in excel
+
+### Optional Reading
+#### Model Analysis is an important part of characterizing what your model can and cannot do well. Learn more...
+> Modeling, like computing and statistics, should produce insights, not merely numbers... When we consider model validation, we are interested in the quality of the model. This is a more difficult problem than one might suppose.
+
+From Haefner, J. W. (2005). Modeling biological systems. Springer.
