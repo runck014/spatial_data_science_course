@@ -140,3 +140,8 @@ From Haefner, J. W. (2005). Modeling biological systems. Springer.
 
 # Week 9
 - Quiz. See Canvas.
+
+# Week 10
+- [Slides](https://docs.google.com/presentation/d/1PrXjw7pOE1jqYmv-lXur7kJ0EOjEf0R8/edit#slide=id.p2)
+- [Lab](https://docs.google.com/document/d/1Pt163DzQbImnV4e6nBMm2UKs17s1BGFC/edit)
+- [Notebook Cross Validation Toy Problem](https://github.com/runck014/interpolation_cross_validation)
