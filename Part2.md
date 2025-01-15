@@ -20,3 +20,18 @@ By the end of this course, students will be able to:
 - [GIS Inspiration Presentation Sign Up](https://docs.google.com/spreadsheets/d/1-qNscFwME5a4F3UahH57AqnQXBVBpSNn/edit#gid=974884723)
 - [Sign up Weekly Student Note Taker](https://docs.google.com/spreadsheets/d/1-lpc5G-al51HqLPaMiga18029kmDLX9j/edit#gid=1118055696)
 
+
+## Final Project
+- [Final Project Description](https://docs.google.com/document/d/19nyQFAM4otrRos9R4SJYMBBX0Ez5Co7X/edit)
+- [Final Project Form](https://docs.google.com/document/d/1T-1qpwnOxuSPUI4Y4V13SLI2PUalJjpi/edit)
+
+
+# --- Introduction ---
+# Week 1
+- [Slides](https://docs.google.com/presentation/d/1vy4IBuZvD1iBDk-JPC6kffzGdN0VOrR3/edit#slide=id.p1)
+
+### Homework
+- Review the [Syllabus](https://docs.google.com/document/d/1H_qq3OpqvtBSQ9dmrmGfB_zVkHMabqdv/edit#)
+- Sign up for [GIS Inspiration Presentation Sign Up](https://docs.google.com/spreadsheets/d/1-qNscFwME5a4F3UahH57AqnQXBVBpSNn/edit#gid=974884723)
+- Sign up for [Sign up Weekly Student Note Taker](https://docs.google.com/spreadsheets/d/1-lpc5G-al51HqLPaMiga18029kmDLX9j/edit#gid=1118055696)
+- Review the [Final Project Description](https://docs.google.com/document/d/19nyQFAM4otrRos9R4SJYMBBX0Ez5Co7X/edit) and [Final Project Form](https://docs.google.com/document/d/1T-1qpwnOxuSPUI4Y4V13SLI2PUalJjpi/edit)
