@@ -34,3 +34,4 @@ By the end of this course, students will be able to:
 - Sign up for [GIS Inspiration Presentation Sign Up](https://docs.google.com/spreadsheets/d/1-qNscFwME5a4F3UahH57AqnQXBVBpSNn/edit#gid=974884723)
 - Sign up for [Sign up Weekly Student Note Taker](https://docs.google.com/spreadsheets/d/1-lpc5G-al51HqLPaMiga18029kmDLX9j/edit#gid=1118055696)
 - Review the [Final Project Description](https://docs.google.com/document/d/19nyQFAM4otrRos9R4SJYMBBX0Ez5Co7X/edit) and [Final Project Form](https://docs.google.com/document/d/1T-1qpwnOxuSPUI4Y4V13SLI2PUalJjpi/edit)
+- Start prepping for [Lab 1.1](https://docs.google.com/document/d/10I7Msa2NC3idQD6qWwXcb2oWQ_KEUJ8V/edit?usp=sharing&ouid=117926763410213500553&rtpof=true&sd=true) and [SRS Template](https://docs.google.com/document/d/10BCfeKkLTZMNFcjAGJ4XPGKIbN_ajtsx/edit?usp=sharing&ouid=117926763410213500553&rtpof=true&sd=true)
