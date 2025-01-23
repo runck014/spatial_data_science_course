@@ -14,7 +14,6 @@ By the end of this course, students will be able to:
 - [Syllabus](https://docs.google.com/document/d/1H_qq3OpqvtBSQ9dmrmGfB_zVkHMabqdv/edit#)
 - [How People Learn](https://docs.google.com/presentation/d/1b6uqHuiguISJPoROvoqOs9dAFAWZYbvMM5lTeO9655o/edit#slide=id.gaf8ebdd7e6_0_76)
 - [Lab Report Template](https://docs.google.com/document/d/1gOGBtTe3dQzrXCEMl644QIVdJgMp8ahN/edit)
-- [Runck Office Hours Signup](https://z.umn.edu/runck-office-hours)
 
 ## Weekly Routines
 - [GIS Inspiration Presentation Sign Up](https://docs.google.com/spreadsheets/d/1-qNscFwME5a4F3UahH57AqnQXBVBpSNn/edit#gid=974884723)
