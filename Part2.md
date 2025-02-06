@@ -44,3 +44,8 @@ By the end of this course, students will be able to:
 - [Lab 1.1](https://docs.google.com/document/d/10I7Msa2NC3idQD6qWwXcb2oWQ_KEUJ8V/edit?usp=sharing&ouid=117926763410213500553&rtpof=true&sd=true) and [SRS Template](https://docs.google.com/document/d/10BCfeKkLTZMNFcjAGJ4XPGKIbN_ajtsx/edit?usp=sharing&ouid=117926763410213500553&rtpof=true&sd=true)
 - [Example Functional Spec + Time Esimates Table](https://docs.google.com/spreadsheets/d/1Ez4l-aMmy-DKfAvqZNEyxhuWHIomV_ay/edit?usp=share_link&ouid=117926763410213500553&rtpof=true&sd=true)
 
+# Week 3
+- [Slides](https://docs.google.com/presentation/d/1OStxajjQP2V5UtVlzL9OaArrYlSmGy0A/edit#slide=id.p1)
+- [Lab 1.2](https://docs.google.com/document/d/155lmq4yp9FvGdawwyjljJgMmgTG-Gjnf/edit)
+- [Lab Table](https://docs.google.com/spreadsheets/d/148PCOvJ7AcEAnDstNtJcraKot98RbIab/edit?usp=sharing&ouid=117926763410213500553&rtpof=true&sd=true)
+- [Example Functional Spec + Time Esimates Table](https://docs.google.com/spreadsheets/d/1Ez4l-aMmy-DKfAvqZNEyxhuWHIomV_ay/edit?usp=share_link&ouid=117926763410213500553&rtpof=true&sd=true)
