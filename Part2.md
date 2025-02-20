@@ -53,3 +53,10 @@ By the end of this course, students will be able to:
 # Week 4
 - [Slides](https://docs.google.com/presentation/d/1PtEjEmv2jxUlbnp3WzOz9JDzJRNMGZQQ/edit#slide=id.p2)
 - [API Tutorial and Starter Code](https://github.com/runck014/iot_bootcamp/tree/master/web_server)
+
+# Week 5
+- Quiz to Be Released Start of Class on Canvas
+- [Lab 2](https://docs.google.com/document/d/1Q_FzJeKMX4GjT7smR_fUTkYZepDU1DKk/edit)
+- [Evaluation Metrics Sheet](https://docs.google.com/spreadsheets/d/1LhrSohjEYaZf-AFdsj6tKwQWklfePZBD/edit?usp=drive_web&ouid=117926763410213500553&rtpof=true)
+- [Demo Repo for Cloud Run](https://github.com/runck014/cloud_run_demo)
+- [ArcGIS Online GeoJSON Requirements](https://doc.arcgis.com/en/arcgis-online/reference/geojson.htm)
