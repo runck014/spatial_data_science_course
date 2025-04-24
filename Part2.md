@@ -87,9 +87,12 @@ By the end of this course, students will be able to:
 # Week 13
 - Quiz on canvas
 - [Lab 4](https://docs.google.com/document/d/1ZjCNpTTdiYbdXcFxeIYJYQATCOZRATKf/edit)
+- 
+# Week 14
+- [Slides](https://docs.google.com/presentation/d/1YF0edH6UaTka890F4rFcIjAKOp4Lvq7f/edit#slide=id.g2373c643935_0_0)
 
 # Week 15
-- [Semester Review Quiz](https://canvas.umn.edu/courses/409654/assignments/3820630)
+- Semester review quiz on Canvas
 - [Final Project Form](https://docs.google.com/document/d/1T-1qpwnOxuSPUI4Y4V13SLI2PUalJjpi/edit)
-- Submit your final project to Canvas [link](https://canvas.umn.edu/courses/409654/assignments/3755557)
-- [Complete Student Rating of Teaching](https://go.blueja.io/nGMF7WB85U6MdZAbTcG50g)
+- Submit your final project to Canvas
+- Complete Student Rating of Teaching
