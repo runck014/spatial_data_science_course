@@ -95,4 +95,4 @@ By the end of this course, students will be able to:
 - Semester review quiz on Canvas
 - [Final Project Form](https://docs.google.com/document/d/1T-1qpwnOxuSPUI4Y4V13SLI2PUalJjpi/edit)
 - Submit your final project to Canvas
-- Complete Student Rating of Teaching
+- [Complete Student Rating of Teaching](https://go.blueja.io/MdFBjZXaCU-qHjpm34VBCg)
